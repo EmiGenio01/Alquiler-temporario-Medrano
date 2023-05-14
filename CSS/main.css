@@ -59,7 +59,14 @@ a {
   text-align: center;
 }
 
-  
+.whatsapp{
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  z-index: 1;
+  width: 80px;
+  display: block;
+}  
 
 @media (min-width: 950px){
 
@@ -84,6 +91,8 @@ a {
   max-width: 1000px;
 }
 
-
+.whatsapp{
+  display:none
+}
 }
  
