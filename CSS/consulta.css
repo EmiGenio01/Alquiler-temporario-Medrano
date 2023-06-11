@@ -30,8 +30,9 @@
 }
 
 .form__label {
-  width: 30%;
+  width: 40%;
   font-size: 20px;
+  
 }
 
 .form__input {
@@ -45,6 +46,7 @@
   justify-content: space-between;
   margin-bottom: 20px;
   align-items: center;
+  text-align: center;
 }
 
 .submit__btn {
